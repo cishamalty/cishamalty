@@ -1,10 +1,12 @@
 Hi 
-I am a Data Analyst and Data visualization professional with more than 5 years of demonstrated experience with an 
+I am a Data Scientist|Analyst with more than 3 years of demonstrated experience with an 
 educational background in Software Engineering .
  I have been helping companies maximize business revenue with powerful data insights  and also reduce operational costs 
  and time by automating tasks with the following: 
  - Data mining 
  - Data Cleaning
+ - Data Models
+ - Data Pipe Lines
  - Data Visualization
  - Applying statistics to produce insights from the data 
  - Hypothesis Testing 
