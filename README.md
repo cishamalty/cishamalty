@@ -12,9 +12,9 @@ educational background in Software Engineering .
  - Hypothesis Testing 
  - Web Scraping 
  - Writing reports to communicate insights produced from the data.
- SKILLS:  Power-BI, Python, SQL, Project management, and AppSheet. 
- In addition to Excel and Google Sheets. CERTIFICATES from simplylearn.com: 
- 1. Introduction to data science
+ SKILLS:  Power-BI, Python, SQL, Project Management, and Metabase. 
+ In addition to Excel and Google Sheets. CERTIFICATES from IBM: 
+ 1. IBM Data Science Professional Certificate
  2.   SQL 
  3.   Python 
  4.   Project Management
