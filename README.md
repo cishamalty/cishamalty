@@ -1,5 +1,5 @@
 Hi 
-I am a Data Scientist|Analyst with more than 3 years of demonstrated experience with an 
+I am a Data Scientist|Analyst with more than 4 years of demonstrated experience with an 
 educational background in Software Engineering .
  I have been helping companies maximize business revenue with powerful data insights  and also reduce operational costs 
  and time by automating tasks with the following: 
