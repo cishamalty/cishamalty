@@ -1,25 +1,45 @@
-Hi 
-I am a Data Scientist|Analyst with more than 4 years of demonstrated experience with an 
-educational background in Software Engineering .
- I have been helping companies maximize business revenue with powerful data insights  and also reduce operational costs 
- and time by automating tasks with the following: 
- - Data mining 
- - Data Cleaning
- - Data Models
- - Data Pipe Lines
- - Data Visualization
- - Applying statistics to produce insights from the data 
- - Hypothesis Testing 
- - Web Scraping 
- - Writing reports to communicate insights produced from the data.
- SKILLS:  Power-BI, Python, SQL, Project Management, and Metabase. 
- In addition to Excel and Google Sheets. CERTIFICATES from IBM: 
- 1. IBM Data Science Professional Certificate
- 2.   SQL 
- 3.   Python 
- 4.   Project Management
- 
-  I  create and modify spreadsheets, reports, charts, graphs, pivot tables, 
-  visual basic code, macros, Google App Scripting, conditional formatting, 
-  complex formulas, Google Sheets, and more.
+# Martin Mugume
+
+## Data Analyst | Data Engineer
+
+**Contact:** Kampala, Uganda | +256-704945815 / +256-740098410 | mugumemalte@gmail.com  
+**LinkedIn:** [linkedin.com/in/martin-mugume-57647775/](https://linkedin.com/in/martin-mugume-57647775/)  
+**GitHub:** [github.com/cishamalty](https://github.com/cishamalty)
+
+---
+
+## Skills
+
+**Languages & Tools:** Python, SQL, Power BI, Metabase, Grafana, Pandas, NumPy, TensorFlow, Scikit-Learn, Apache Kafka, Mage, Airbyte, DBT, Excel  
+**Soft Skills:** Report Writing, Critical Thinking, Data Storytelling  
+
+---
+
+## Experience
+
+**Business Intelligence Analyst** – MCash Uganda Ltd *(Dec 2022 - Jun 2024)*  
+- Built data pipelines & ad hoc reports for MCash services.  
+- Created dashboards & predictive models for business insights.  
+
+**Data Analyst** – OutBox Uganda Ltd *(Jul 2024 - Present)*  
+- Analyzed KPIs, trends & provided insights for stakeholders.  
+- Trained stakeholders in report interpretation.  
+
+**Data Analyst** – Jaksons Uganda Ltd *(Mar 2020 - Apr 2022)*  
+- Conducted market trend analysis & developed forecasting models.  
+- Created KPI dashboards for decision-making.  
+
+---
+
+## Education & Certifications
+
+- **IBM Data Science Professional Certificate**  
+- **Data Analytics in Finance** – UIUC  
+- **BSc Software Engineering** – Makerere University  
+
+---
+
+## Projects
+Explore my work: [github.com/cishamalty](https://github.com/cishamalty)
+
 
