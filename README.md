@@ -17,13 +17,13 @@
 
 ## Experience
 
-**Business Intelligence Analyst** – MCash Uganda Ltd *(Dec 2022 - Jun 2024)*  
-- Built data pipelines & ad hoc reports for MCash services.  
-- Created dashboards & predictive models for business insights.  
-
 **Data Analyst** – OutBox Uganda Ltd *(Jul 2024 - Present)*  
 - Analyzed KPIs, trends & provided insights for stakeholders.  
-- Trained stakeholders in report interpretation.  
+- Trained stakeholders in report interpretation.
+  
+**Business Intelligence Analyst** – MCash Uganda Ltd *(Dec 2022 - Jun 2024)*  
+- Built data pipelines & ad hoc reports for MCash services.  
+- Created dashboards & predictive models for business insights.    
 
 **Data Analyst** – Jaksons Uganda Ltd *(Mar 2020 - Apr 2022)*  
 - Conducted market trend analysis & developed forecasting models.  
