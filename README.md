@@ -17,7 +17,7 @@
 
 ## Experience
 
-**Data Analyst** – OutBox Uganda Ltd *(Jul 2024 - Present)*  
+**Data Analyst** – Outbox Uganda Ltd *(Jul 2024 - Present)*  
 - Analyzed KPIs, trends & provided insights for stakeholders.  
 - Trained stakeholders in report interpretation.
   
