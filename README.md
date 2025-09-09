@@ -2,7 +2,7 @@
 
 ## Data Analyst | Data Engineer
 
-**Contact:** Kampala, Uganda | +256-704945815 / +256-740098410 | mugumemalte@gmail.com  
+**Contact:** Kampala, Uganda | +256 704945815 / +256 740098410 | mugumemalte@gmail.com  
 **LinkedIn:** [linkedin.com/in/martin-mugume-57647775/](https://linkedin.com/in/martin-mugume-57647775/)  
 **GitHub:** [github.com/cishamalty](https://github.com/cishamalty)
 
